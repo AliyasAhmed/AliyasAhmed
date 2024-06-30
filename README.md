@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning webdev
 - 💞️ I’m looking to collaborate on a major software project or maybe a webdev project.
 - 📫 Reach me through Email.
-- ⚡ Fun fact: There no fun fact about me.
+- ⚡ A fun thing about me is that I don't know any.
+
 
 <!---
 AliyasAhmed/AliyasAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
